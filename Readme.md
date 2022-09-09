@@ -1,5 +1,3 @@
-### [Back to Getting Started](../getting-started/)
-
 <div align=center>
 
 # Desafio #1
